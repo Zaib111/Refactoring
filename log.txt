@@ -1,2 +1,4 @@
-a3ca442 (HEAD -> main, origin/main, origin/HEAD) Task 1.1
+296d908 (HEAD -> main) Created helper methods and renamed variables
+4b24541 (origin/main, origin/HEAD) Task 1.2
+a3ca442 Task 1.1
 faa8d43 Initial commit
